@@ -1,0 +1,2 @@
+C:\Users\breno.rocha\Desktop\PingPong\PingPong\PingPong\PingPongContent\obj\x86\Debug\PingPongContent.contentprojResolveAssemblyReference.cache
+E:\PingPong\PingPong\PingPong\PingPongContent\obj\x86\Debug\PingPongContent.contentprojResolveAssemblyReference.cache
